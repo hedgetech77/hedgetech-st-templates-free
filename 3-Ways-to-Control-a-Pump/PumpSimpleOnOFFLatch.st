@@ -1,4 +1,5 @@
 PROGRAM PumpSimpleOnOFFLatch
+(* METHOD 1 — Simple ON/OFF Latch *)
 VAR
  	xStartCmd: BOOL := FALSE; // operator start button (or PLC logic)
  	xStopCmd: BOOL := FALSE; // operator stop button

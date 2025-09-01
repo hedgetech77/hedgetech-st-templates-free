@@ -1,4 +1,5 @@
 PROGRAM PumpMinRunTime
+(* METHOD 2 — Minimum Run Time with TON *)
 VAR
 	xStartCmd: BOOL := FALSE; // start request
 	xStopCmd: BOOL := FALSE; // stop request
