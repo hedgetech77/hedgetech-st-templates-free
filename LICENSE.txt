@@ -1,0 +1,25 @@
+Simple Use License – Hedgetech Systems Automation Templates  
+Copyright © 2025 Hedgetech Systems LLC
+
+Permission is hereby granted to any person to use these software templates and function blocks for personal, educational, or commercial use within their own organization.
+
+You may:
+- Use, edit, or adapt this content in your own automation projects
+- Include it in systems you deliver to clients (as part of a machine, system, or solution) **as long as this notice and attribution are preserved, including disclaimer & responsibility notice**
+
+You may NOT:
+- Resell, redistribute, or repackage this template or its source code as a standalone product
+- Claim ownership of the original work
+
+⚠️ Disclaimer & Responsibility Notice:
+These templates are provided “as-is,” **without any warranty**—express or implied.
+Hedgetech Systems LLC and its authors assume no liability for direct or indirect damages, injuries, or death resulting from the use of these templates or any associated documentation.
+
+The user is **solely responsible** for:
+- Performing complete integration and unit testing
+- Ensuring compliance with all applicable safety codes, regulations, and engineering standards in their country or region
+- Verifying that all control logic is safe, correct, and functional before deployment
+
+By using these templates, you agree to take full responsibility for their usage in any system or environment.
+
+Contact: info@hedgetechsystems.com
